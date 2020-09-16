@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2db5ac64-f22b-44cb-977f-97ed40b6538e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/products.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600240515953</updated>
-      <workItem from="1600240517402" duration="2811000" />
+      <workItem from="1600240517402" duration="3736000" />
     </task>
     <servers />
   </component>
@@ -79,10 +80,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1600243115040">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1600244672884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600243115040" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600244672884" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1600243483789">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
