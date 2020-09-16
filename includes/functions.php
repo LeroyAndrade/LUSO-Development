@@ -4,7 +4,8 @@
  *
  * @return bool|PDO
  */
-function dbConnect() {
+function dbConnect()
+{
     // Laad de config in en zet het in een variabele
     $config = require(__DIR__ . '/config.php');
 
@@ -19,4 +20,16 @@ function dbConnect() {
         exit;
     }
     return false;
+}
+
+/**
+ * Haal de producten en services op
+ */
+
+function getProducts($connection)
+{
+    $sql = 'SELECT * FROM `products`';
+    $statement = $connection->query($sql);
+    return $statement;
+
 }
