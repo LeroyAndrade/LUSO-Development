@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2db5ac64-f22b-44cb-977f-97ed40b6538e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sass/_navbar.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/products.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/products.sass" beforeDir="false" afterPath="$PROJECT_DIR$/sass/products.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/products.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/products.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -68,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600240515953</updated>
-      <workItem from="1600240517402" duration="4077000" />
+      <workItem from="1600240517402" duration="4407000" />
     </task>
     <servers />
   </component>
