@@ -21,13 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2db5ac64-f22b-44cb-977f-97ed40b6538e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.php" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products.php" beforeDir="false" afterPath="$PROJECT_DIR$/products.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/_navbar.sass" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_navbar.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/_vars.sass" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_vars.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/portfolio.sass" beforeDir="false" afterPath="$PROJECT_DIR$/sass/portfolio.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/portfolio.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/portfolio.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style/portfolio.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/products.sass" beforeDir="false" afterPath="$PROJECT_DIR$/sass/products.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/products.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/products.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/products.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style/products.css.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600240515953</updated>
       <workItem from="1600240517402" duration="16716000" />
-      <workItem from="1600326024904" duration="16764000" />
+      <workItem from="1600326024904" duration="18448000" />
     </task>
     <servers />
   </component>
