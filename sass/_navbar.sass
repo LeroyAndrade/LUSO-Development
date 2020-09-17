@@ -1,6 +1,7 @@
 @import 'vars'
 
 .navigation
+  top: 0
   position: fixed
   width: 90vw
 
@@ -8,7 +9,6 @@
     background-color: $nav-color
     margin-left: auto
     margin-right: auto
-    padding: .5rem 0
     display: grid
     grid-template-columns: repeat(5, 1fr)
 
@@ -18,8 +18,14 @@
       margin-bottom: auto
 
       .navigation-link
+        color: $main
         text-decoration: none
         padding: 2rem
+        font-size: 1.3rem
+        font-weight: bold
+
+      .link-active
+        color: $blue-ish
 
     .navigation-logo
       .navigation-logo-image
