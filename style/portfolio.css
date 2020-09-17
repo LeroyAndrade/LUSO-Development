@@ -1,4 +1,5 @@
 .navigation {
+  top: 0;
   position: fixed;
   width: 90vw;
 }
@@ -6,7 +7,6 @@
   background-color: #B4CFCF;
   margin-left: auto;
   margin-right: auto;
-  padding: 0.5rem 0;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
 }
@@ -16,13 +16,23 @@
   margin-bottom: auto;
 }
 .navigation .navigation-content .navigation-button .navigation-link {
+  color: #315659;
   text-decoration: none;
   padding: 2rem;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+.navigation .navigation-content .navigation-button .link-active {
+  color: #108696;
 }
 .navigation .navigation-content .navigation-logo .navigation-logo-image {
   object-fit: cover;
   max-height: 166px;
   max-width: 359px;
+}
+
+html {
+  background-color: #3A3C45;
 }
 
 body {
@@ -38,7 +48,14 @@ body {
   margin-right: auto;
 }
 .page-content .big-picture {
-  margin-top: 333px;
+  margin-top: 220px;
+  width: 90%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.page-content .big-picture img {
   width: 100%;
   height: auto;
 }
