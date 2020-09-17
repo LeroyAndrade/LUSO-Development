@@ -12,7 +12,7 @@ $statement = getProducts($connection);
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="style/products.css">
-    <title>Document</title>
+    <title>Diensten</title>
 </head>
 <body>
 <div class="navigation">
@@ -21,7 +21,7 @@ $statement = getProducts($connection);
             <a href="" class="navigation-link">OVER ONS</a>
         </div>
         <div class="navigation-button">
-            <a href="" class="navigation-link">DIENSTEN</a>
+            <a href="" class="navigation-link link-active">DIENSTEN</a>
         </div>
         <div class="navigation-logo">
             <a href="">
