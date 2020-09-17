@@ -1,15 +1,12 @@
 .navigation {
   position: fixed;
-  width: 100vw;
-  margin-left: auto;
-  margin-right: auto;
+  width: 90vw;
 }
 .navigation .navigation-content {
   background-color: #B4CFCF;
-  width: 90%;
   margin-left: auto;
   margin-right: auto;
-  padding: 0.5rem;
+  padding: 0.5rem 0;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
 }
@@ -29,12 +26,14 @@
 }
 
 body {
-  margin: 0;
+  width: 90vw;
+  margin: 0 auto;
   padding: 0;
 }
 
 .page-content {
-  width: 90vw;
+  background-color: #3A3C45;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
