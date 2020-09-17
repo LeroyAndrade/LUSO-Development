@@ -16,15 +16,15 @@
             <a href="" class="navigation-link">OVER ONS</a>
         </div>
         <div class="navigation-button">
-            <a href="" class="navigation-link">DIENSTEN</a>
+            <a href="products.php" class="navigation-link">DIENSTEN</a>
         </div>
         <div class="navigation-logo">
             <a href="">
-                <img src="images/Luso%20-%20DEF%20-%20RGB-02.svg" alt="Logo" class="navigation-logo-image">
+                <img src="images/Comp-1.gif" alt="Logo" class="navigation-logo-image">
             </a>
         </div>
         <div class="navigation-button">
-            <a href="" class="navigation-link">PORTFOLIO</a>
+            <a href="" class="navigation-link link-active">PORTFOLIO</a>
         </div>
         <div class="navigation-button">
             <a href="" class="navigation-link">CONTACT</a>
