@@ -1,0 +1,58 @@
+.navigation {
+  position: fixed;
+  width: 100vw;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #B4CFCF;
+}
+.navigation .navigation-content {
+  background-color: #B4CFCF;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+.navigation .navigation-content .navigation-button {
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.navigation .navigation-content .navigation-button .navigation-link {
+  text-decoration: none;
+}
+.navigation .navigation-content .navigation-logo .navigation-logo-image {
+  object-fit: cover;
+  max-height: 166px;
+  max-width: 359px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.page-content {
+  width: 90vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+.page-content .big-picture {
+  margin-top: 333px;
+  width: 100%;
+  height: auto;
+}
+.page-content .work-container {
+  margin-top: 10em;
+  width: 100%;
+}
+.page-content .work-container .work-item .work-item-head {
+  text-transform: uppercase;
+  font-size: 2.5rem;
+}
+.page-content .work-container .work-item .work-item-head .work-item-text {
+  float: left;
+}
+
+/*# sourceMappingURL=style.portfolio.css.map */
