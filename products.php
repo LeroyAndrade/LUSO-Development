@@ -30,7 +30,7 @@ $statement = getProducts($connection);
             </a>
         </div>
         <div class="navigation-button">
-            <a href="" class="navigation-link">PORTFOLIO</a>
+            <a href="portfolio.php" class="navigation-link">PORTFOLIO</a>
         </div>
         <div class="navigation-button">
             <a href="" class="navigation-link">CONTACT</a>
