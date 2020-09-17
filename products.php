@@ -25,7 +25,7 @@ $statement = getProducts($connection);
         </div>
         <div class="navigation-logo">
             <a href="">
-                <img src="images/Luso%20-%20DEF%20-%20RGB-02.svg" alt="Logo"
+                <img src="images/Comp-1.gif" alt="Logo"
                      class="navigation-logo-image">
             </a>
         </div>
