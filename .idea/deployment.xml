@@ -5,7 +5,7 @@
       <paths name="LUSO">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping local="$PROJECT_DIR$" web="LUSO-Development" />
           </mappings>
         </serverdata>
       </paths>
