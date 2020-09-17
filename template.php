@@ -20,7 +20,7 @@
         </div>
         <div class="navigation-logo">
             <a href="">
-                <img src="https://via.placeholder.com/359x166?text=LUSO+Placeholder" alt="Logo" class="navigation-logo-image">
+                <img src="images/Luso%20-%20DEF%20-%20RGB-02.svg" alt="Logo" class="navigation-logo-image">
             </a>
         </div>
         <div class="navigation-button">
