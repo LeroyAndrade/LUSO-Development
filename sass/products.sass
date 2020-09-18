@@ -1,6 +1,8 @@
 @use 'navbar'
 @import 'vars'
+@import url($font-link)
 html
+  font-family: $montserrat
   background-color: $background
 body
   width: 90vw
@@ -12,12 +14,18 @@ body
   margin-left: auto
   margin-right: auto
   .big-picture
-    margin-top: 333px
-    width: 100%
+    margin-top: 220px
+    width: 90%
     height: auto
+    display: block
+    margin-left: auto
+    margin-right: auto
 
 .products--product-container
+  width: 90%
   margin-top: 71px
+  margin-left: auto
+  margin-right: auto
   display: grid
   grid-template-columns: repeat(3, 1fr)
   grid-gap: 71px
@@ -26,4 +34,8 @@ body
     .product-image
       width: 100%
       max-width: 519px
+    .product-name
+      font-weight: bold
+      font-size: 2.5rem
+      text-transform: uppercase
 

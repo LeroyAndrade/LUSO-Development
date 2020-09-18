@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,900;1,400;1,500;1,600;1,700;1,900&display=swap");
 .navigation {
   top: 0;
   position: fixed;
@@ -32,6 +33,7 @@
 }
 
 html {
+  font-family: "Montserrat", sans-serif;
   background-color: #3A3C45;
 }
 
@@ -48,13 +50,19 @@ body {
   margin-right: auto;
 }
 .page-content .big-picture {
-  margin-top: 333px;
-  width: 100%;
+  margin-top: 220px;
+  width: 90%;
   height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .products--product-container {
+  width: 90%;
   margin-top: 71px;
+  margin-left: auto;
+  margin-right: auto;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 71px;
@@ -65,6 +73,11 @@ body {
 .products--product-container .product-container .product-image {
   width: 100%;
   max-width: 519px;
+}
+.products--product-container .product-container .product-name {
+  font-weight: bold;
+  font-size: 2.5rem;
+  text-transform: uppercase;
 }
 
 /*# sourceMappingURL=products.css.map */
