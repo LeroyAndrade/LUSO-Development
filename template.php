@@ -20,7 +20,7 @@
         </div>
         <div class="navigation-logo">
             <a href="">
-                <img src="images/Luso%20-%20DEF%20-%20RGB-02.svg" alt="Logo" class="navigation-logo-image">
+                <img src="images/Looping.gif" alt="Logo" class="navigation-logo-image" id="loop" onload="setTimeout(stopLoop, 1000)">
             </a>
         </div>
         <div class="navigation-button">
@@ -31,5 +31,6 @@
         </div>
     </div>
 </div>
+<script src="script/stop-loop.js"></script>
 </body>
 </html>
