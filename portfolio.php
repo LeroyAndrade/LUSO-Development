@@ -34,7 +34,7 @@
 <div class="page-content">
     <img src="https://via.placeholder.com/359x166?text=Placeholder" alt="" class="big-picture">
     <div class="work-container">
-        <div class="work-item">
+        <div class="work-item work-item__main-light">
             <h2 class="work-item-head">Voorbeeldtitel</h2>
             <div class="work-item-text">
                 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
@@ -43,27 +43,32 @@
                 fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
                 deserunt mollit anim id est laborum."
             </div>
-
-            <div class="work-item">
-                <h2 class="work-item-head">Voorbeeldtitel</h2>
-                <div class="work-item-text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                    laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                    qui officia deserunt mollit anim id est laborum."</div>
-            </div>
-
-            <div class="work-item">
-                <h2 class="work-item-head">Voorbeeldtitel</h2>
-                <div class="work-item-text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                    laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                    qui officia deserunt mollit anim id est laborum."</div>
+        </div>
+        <div class="work-item">
+            <h2 class="work-item-head">Voorbeeldtitel</h2>
+            <div class="work-item-text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                velit
+                esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                culpa
+                qui officia deserunt mollit anim id est laborum."
             </div>
         </div>
-    </div>
 
+        <div class="work-item">
+            <h2 class="work-item-head">Voorbeeldtitel</h2>
+            <div class="work-item-text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                velit
+                esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                culpa
+                qui officia deserunt mollit anim id est laborum."
+            </div>
+        </div>
+
+    </div>
 
 
 </div>
