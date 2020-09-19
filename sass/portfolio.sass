@@ -1,6 +1,8 @@
 @use 'navbar'
 @import 'vars'
+@import url($font-link)
 html
+  font-family: $montserrat
   background-color: $background
 body
   width: 90vw
@@ -22,10 +24,15 @@ body
       width: 100%
       height: auto
   .work-container
-    margin-top: 10em
+    margin-top: 5rem
     width: 100%
     .work-item
+      color: white
+      padding: 1rem
+      &__main-light
+        background-color: $main-light
       .work-item-head
+        font-weight: bold
         text-transform: uppercase
         font-size: 2.5rem
         .work-item-text
