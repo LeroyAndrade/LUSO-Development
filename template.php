@@ -20,7 +20,7 @@
         </div>
         <div class="navigation-logo">
             <a href="">
-                <img src="images/Looping.gif" alt="Logo" class="navigation-logo-image" id="loop" onload="setTimeout(stopLoop, 1000)">
+                <img src="images/Looping.gif" alt="Logo" class="navigation-logo-image" id="loop" onload="setTimeout(stopLoop, 1200)">
             </a>
         </div>
         <div class="navigation-button">
