@@ -49,36 +49,55 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-.page-content .big-picture {
+.page-content .page-content__head {
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
   margin-top: 220px;
-  width: 90%;
-  height: auto;
-  display: block;
   margin-left: auto;
   margin-right: auto;
 }
-.page-content .big-picture img {
+.page-content .page-content__head img {
   width: 100%;
   height: auto;
 }
 .page-content .work-container {
-  margin-top: 5rem;
+  margin-top: 2.5rem;
   width: 100%;
 }
 .page-content .work-container .work-item {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-areas: ". image" "head image" "text image" ". image";
+  grid-column-gap: 10rem;
   color: white;
-  padding: 1rem;
+  padding: 5rem 10rem;
+  text-align: left;
+  margin-bottom: 5rem;
 }
 .page-content .work-container .work-item__main-light {
   background-color: #85BBB4;
 }
+.page-content .work-container .work-item__main {
+  background-color: #315659;
+}
+.page-content .work-container .work-item__right {
+  grid-template-areas: "image ." "image head" "image text" "image .";
+  text-align: right;
+}
 .page-content .work-container .work-item .work-item-head {
+  grid-area: head;
   font-weight: bold;
   text-transform: uppercase;
   font-size: 2.5rem;
 }
-.page-content .work-container .work-item .work-item-head .work-item-text {
-  float: left;
+.page-content .work-container .work-item .work-item-text {
+  grid-area: text;
+}
+.page-content .work-container .work-item .work-item__image {
+  grid-area: image;
+  width: 663px;
+  height: 751px;
 }
 
 /*# sourceMappingURL=portfolio.css.map */
