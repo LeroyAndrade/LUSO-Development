@@ -7,6 +7,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="style/template.css">
+    <script src="script/stop-loop.js"></script>
     <title>Document</title>
 </head>
 <body>
@@ -20,7 +21,8 @@
         </div>
         <div class="navigation-logo">
             <a href="">
-                <img src="images/Looping.gif" alt="Logo" class="navigation-logo-image" id="loop" onload="setTimeout(stopLoop, 1200)">
+                <img src="images/doorlopen.gif" alt="Logo" class="navigation-logo-image" id="loop"
+                     onload="setTimeout(stopLoop, 1000)">
             </a>
         </div>
         <div class="navigation-button">
@@ -31,6 +33,6 @@
         </div>
     </div>
 </div>
-<script src="script/stop-loop.js"></script>
+
 </body>
 </html>
