@@ -37,19 +37,9 @@
     <h1 class="page-content__head">portfolio</h1>
     <div class="work-container">
         <div class="work-item work-item__main-light">
-            <h2 class="work-item-head">Voorbeeldtitel</h2>
+            <h2 class="work-item-head">Be the best</h2>
             <div class="work-item-text">
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                deserunt mollit anim id est laborum."
-            </div>
-            <img src="https://via.placeholder.com/359x166?text=Placeholder" alt="" class="work-item__image">
-        </div>
-        <div class="work-item work-item__main work-item__right">
-            <h2 class="work-item-head">Voorbeeldtitel</h2>
-            <div class="work-item-text">Deze poster is gemaakt voor een bedrijf waarvan het doel was om in de komende
+                Deze poster is gemaakt voor een bedrijf waarvan het doel was om in de komende
                 periode, 64 medewerkers te hebben werken op een vestiging. Als ze dat was gelukt dan waren ze de
                 grootste vestiging van allemaal. Wij besloten Micheal Jordan op de poster te zetten met het nummer 64 en
                 niet zijn originele nummer 23. Dit was een verwijzing naar het doelnummer 64. Verder hadden we de tekst
@@ -57,16 +47,23 @@
             </div>
             <img src="https://via.placeholder.com/359x166?text=Placeholder" alt="" class="work-item__image">
         </div>
+        <div class="work-item work-item__main work-item__right">
+            <h2 class="work-item-head">Logo planet visum</h2>
+            <div class="work-item-text">
+                Dit is een logo dat ontworpen is voor het bedrijf Planet Visum dit bedrijf bied visums aan voor het
+                buitenland. De voorkeuren voor de huisstijl waren blauw, zakelijk en een ruimte gevoel erbij want
+                bedrijf vond dit staan voor vrijheid. De klant was erg blij met het logo en heeft nu een prachtig logo
+                die zichtbaar is op al het bedrijf hun producten.
+            </div>
+            <img src="https://via.placeholder.com/359x166?text=Placeholder" alt="" class="work-item__image">
+        </div>
 
         <div class="work-item work-item__main-light">
-            <h2 class="work-item-head">Voorbeeldtitel</h2>
-            <div class="work-item-text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit
-                esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                culpa
-                qui officia deserunt mollit anim id est laborum."
+            <h2 class="work-item-head">Poster template</h2>
+            <div class="work-item-text">Dit project was voor een klant die graag een universele poster template wou voor
+                zijn opkomende bedrijf. De klant had enkel wat kleuren die hij mooi eruit vond zien. Met deze informatie
+                hebben wij een strakke poster template neer gezet die makkelijk te bewerken is en handig is voor alle
+                opkomende evenementen van het bedrijf
             </div>
             <img src="https://via.placeholder.com/359x166?text=Placeholder" alt="" class="work-item__image">
         </div>
