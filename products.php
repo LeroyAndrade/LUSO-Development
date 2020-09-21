@@ -39,13 +39,14 @@ $statement = getProducts($connection);
     </div>
 </div>
 <div class="page-content">
-    <img src="https://via.placeholder.com/359x166?text=Placeholder" alt="" class="big-picture">
+    <h1 class="page-content__head">portfolio</h1>
     <div class="products--product-container">
         <?php foreach ($statement as $product): ?>
             <div class="product-container">
                 <img src="images/<?php echo $product['image'] ?>" alt="" class="product-image">
                 <h2 class="product-name"><?php echo $product['product_name'] ?></h2>
                 <p class="product-description"><?php echo $product['description'] ?></p>
+                <a href="portfolio.php" class="product__more-button">Zi<span class="more-button__underline">e meer</span> ></a>
             </div>
 
         <?php endforeach; ?>
