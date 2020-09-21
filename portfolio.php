@@ -14,7 +14,7 @@
 <div class="navigation">
     <div class="navigation-content">
         <div class="navigation-button">
-            <a href="" class="navigation-link">OVER ONS</a>
+            <a href="about.php" class="navigation-link">OVER ONS</a>
         </div>
         <div class="navigation-button">
             <a href="products.php" class="navigation-link">DIENSTEN</a>
