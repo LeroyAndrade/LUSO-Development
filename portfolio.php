@@ -45,7 +45,7 @@
                 niet zijn originele nummer 23. Dit was een verwijzing naar het doelnummer 64. Verder hadden we de tekst
                 erbij gezet ‘be the best, become the biggest’.
             </div>
-            <img src="https://via.placeholder.com/359x166?text=Placeholder" alt="" class="work-item__image">
+            <img src="images/Mockup-POster-sam.jpg" alt="" class="work-item__image">
         </div>
         <div class="work-item work-item__main work-item__right">
             <h2 class="work-item-head">Logo planet visum</h2>
@@ -55,7 +55,7 @@
                 bedrijf vond dit staan voor vrijheid. De klant was erg blij met het logo en heeft nu een prachtig logo
                 die zichtbaar is op al het bedrijf hun producten.
             </div>
-            <img src="https://via.placeholder.com/359x166?text=Placeholder" alt="" class="work-item__image">
+            <img src="images/Mockup-logo-ferdy.jpg" alt="" class="work-item__image">
         </div>
 
         <div class="work-item work-item__main-light">
@@ -65,7 +65,7 @@
                 hebben wij een strakke poster template neer gezet die makkelijk te bewerken is en handig is voor alle
                 opkomende evenementen van het bedrijf
             </div>
-            <img src="https://via.placeholder.com/359x166?text=Placeholder" alt="" class="work-item__image">
+            <img src="images/Mockup-poster-ferdy.jpg" alt="" class="work-item__image">
         </div>
 
     </div>
