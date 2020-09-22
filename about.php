@@ -37,7 +37,7 @@
 </div>
 <div class="page-content">
     <div class="image-holder">
-        <img src="https://via.placeholder.com/359x166?text=Placeholder" alt="" class="big-picture">
+        <img src="images/Team-foto-large.jpg" alt="" class="big-picture">
     </div>
     <div class="about-us">
         <h1 class="about-us__head">Over ons</h1>
