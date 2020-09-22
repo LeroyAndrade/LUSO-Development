@@ -46,7 +46,7 @@ $statement = getProducts($connection);
                 <img src="images/<?php echo $product['image'] ?>" alt="" class="product-image">
                 <h2 class="product-name"><?php echo $product['product_name'] ?></h2>
                 <p class="product-description"><?php echo $product['description'] ?></p>
-                <a href="portfolio.php" class="product__more-button">Zi<span class="more-button__underline">e meer</span> ></a>
+                <a href="portfolio.php" class="product__more-button">Lees meer</a>
             </div>
 
         <?php endforeach; ?>
