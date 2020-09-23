@@ -1,13 +1,11 @@
-@import 'vars'
-
 .navigation
   top: 0
   position: fixed
-  width: 90vw
-  margin-left: 5vw
+  width: 100vw
+  z-index: 100
 
   .navigation-content
-    background-color: $nav-color
+    background-color: #B4CFCF
     margin-left: auto
     margin-right: auto
     display: grid
@@ -19,17 +17,16 @@
       margin-bottom: auto
 
       .navigation-link
-        color: $main
+        color: #315659
         text-decoration: none
         padding: 2rem
         font-size: 1.3rem
         font-weight: bold
 
       .link-active
-        color: $link
+        color: #108696
 
-    .navigation-logo
-      .navigation-logo-image
-        object-fit: cover
-        max-height: 166px
-        max-width: 359px
+    .navigation-logo .navigation-logo-image
+      object-fit: cover
+      max-height: 166px
+      max-width: 359px
